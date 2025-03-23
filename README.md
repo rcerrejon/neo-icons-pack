@@ -1,5 +1,7 @@
 # NEO ICONS-PACK
 
+[<img src="Preview.png" width="300"/>](Preview.png)
+
 **NEO icons-pack** is a collection of selected 100 flat-style icons from [Flaticon](https://github.com/freepik-company/flaticon-uicons) bundled into a `.dll` file for Windows, and also provided as individual files in `.svg`, `.ico`, and `.png` formats. This pack is ideal for customizing system elements such as the sound settings icon, shortcuts, folders, and more.
 
 ## 🧩 Features
